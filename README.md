@@ -1,2 +1,3 @@
 # git_github_class
-Git and GitHub Platzi Class Notes
+
+Find here my notes from the Git and Github Platzi Class.
